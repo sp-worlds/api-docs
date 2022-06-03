@@ -16,4 +16,4 @@ POST https://spworlds.ru/api/public/transactions
 
 - `receiver` - Строка, номер карты получателя
 - `amount` - Количество аров для перевода
-- `comment` - Комментарий для переаода
+- `comment` - Комментарий для перевода
