@@ -14,7 +14,7 @@ API может в любой момент измениться и это ваш�
 - [Node.js](https://www.npmjs.com/package/spworlds)
 - [Deno](https://crux.land/AdZBL)
 - [Python](https://pypi.org/project/pyspapi/)
-- [Java](https://github.com/teleport2/Sp-Api-For-Java)
+- [Java](https://github.com/ValeraShimchuck/JSP)
 
 Создай issue чтобы мы добавили сюда твою библиотеку
 
