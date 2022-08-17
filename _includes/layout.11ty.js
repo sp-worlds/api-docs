@@ -15,7 +15,7 @@ module.exports = {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="/styles.css">
         <link rel="shortcut icon" href="/logo.svg" type="image/svg+xml">
-        <title>${data.title} - Документация SPWorlds</title>
+        <title>${content.match(/<h1>(.*)<\/h1>/)[0].slice(4, -5)} - Документация SPWorlds</title>
       </head>
       <body>
         <header>

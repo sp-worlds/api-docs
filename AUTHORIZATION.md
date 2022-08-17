@@ -1,6 +1,5 @@
 ---
 title: 'Аутентификация для API сайтов СП'
-layout: 'layout.11ty.js'
 permalink: '/authorization/'
 ---
 
