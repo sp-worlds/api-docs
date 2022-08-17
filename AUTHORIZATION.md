@@ -1,3 +1,9 @@
+---
+title: 'Аутентификация для API сайтов СП'
+layout: 'layout.11ty.js'
+permalink: '/authorization/'
+---
+
 # Аутентификация для API сайтов СП
 
 ## Получение токена и ID карты
