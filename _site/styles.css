@@ -108,6 +108,7 @@ span.post {
   user-select: none;
   padding: 0.25rem;
   border-radius: 0.25rem;
+  color: #ffffff;
 }
 
 span.get {
