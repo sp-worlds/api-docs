@@ -19,6 +19,7 @@ API может в любой момент измениться и это ваш�
 - [Python](https://pypi.org/project/pyspapi/)
 - [Python](https://pypi.org/project/Py-SPW/)
 - [Java](https://github.com/ValeraShimchuck/JSP)
+- [CSharp](https://github.com/Mih4n/spworlds)
 
 Создай issue чтобы мы добавили сюда твою библиотеку
 
